@@ -1,0 +1,7 @@
+diff --git a/VERSION b/VERSION
+new file mode 100644
+index 000000000..0c2396178
+--- /dev/null
++++ b/VERSION
+@@ -0,0 +1 @@
++4.5.0+icecast2.5.0+liquidsoap2.0.7-0local1

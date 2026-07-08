@@ -1,0 +1,11 @@
+bundle-rootfs/
+debian/.debhelper/
+debian/debhelper-build-stamp
+debian/files
+debian/libretime/
+debian/libretime.substvars
+libretime_*.deb
+libretime_*.ddeb
+libretime_*.buildinfo
+libretime_*.changes
+Upload/
